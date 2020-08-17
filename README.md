@@ -5,5 +5,4 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=DavidMolinari alt=DavidMolinari /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=DavidMolinari&show_icons=true&include_all_commits=true)](https://github.com/DavidMolinari/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMolinari&layout=compact)](https://github.com/DavidMolinari/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMolinari)](https://github.com/DavidMolinari/github-readme-stats)
